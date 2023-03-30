@@ -1,4 +1,1 @@
-# 3. Config
-- https://fastapi.tiangolo.com/advanced/settings/
-- https://www.uvicorn.org/settings/
-- https://pawamoy.github.io/posts/unify-logging-for-a-gunicorn-uvicorn-app/
+see https://karma-git.github.io/kb/blog/2023-03-30-12f/#fastapi-12-factor
